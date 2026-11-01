@@ -78,3 +78,7 @@ The full project report includes the prototyping plan, target user analysis, met
 - **Project Type:** Academic Project
 - **Coures:** Prototyping
 - **Semester:** Summer 2025
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
+
